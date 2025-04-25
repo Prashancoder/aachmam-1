@@ -177,10 +177,10 @@
                 Transformations with Aachman Ayurveda
               </h2>
              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
-                <img src="/public/images/re1.jpeg"   alt="Before and After 1" className="w-full h-auto rounded-xl shadow-md object-cover" />
-                <img src="/public/images/re2.jpeg" alt="Before and After 2" className="w-full h-auto rounded-xl shadow-md object-cover" />
-                <img src="/public/images/re3.jpeg" alt="Before and After 3" className="w-full h-auto rounded-xl shadow-md object-cover" />
-                <img src="/public/images/re4.jpeg" alt="Before and After 4" className="w-full h-auto rounded-xl shadow-md object-cover" />
+                <img src="/images/re1.jpeg"   alt="Before and After 1" className="w-full h-auto rounded-xl shadow-md object-cover" />
+                <img src="/images/re2.jpeg" alt="Before and After 2" className="w-full h-auto rounded-xl shadow-md object-cover" />
+                <img src="/images/re3.jpeg" alt="Before and After 3" className="w-full h-auto rounded-xl shadow-md object-cover" />
+                <img src="/images/re4.jpeg" alt="Before and After 4" className="w-full h-auto rounded-xl shadow-md object-cover" />
               </div>
             </div>  
           </section>
