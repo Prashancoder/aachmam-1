@@ -176,10 +176,11 @@
               <h2 className="font-serif text-3xl md:text-4xl font-bold text-ayurveda-dark mb-12 text-center">
                 Transformations with Aachman Ayurveda
               </h2>
-              <div className="https://imgur.com/a/RnBDth5"   alt="Before and After 1" className="w-full h-auto rounded-xl shadow-md object-cover" />
-                <img src="https://imgur.com/kZbGwDe" alt="Before and After 2" className="w-full h-auto rounded-xl shadow-md object-cover" />
-                <img src="https://imgur.com/mc5Ktfg" alt="Before and After 3" className="w-full h-auto rounded-xl shadow-md object-cover" />
-                <img src="https://imgur.com/n7kbKN5" alt="Before and After 4" className="w-full h-auto rounded-xl shadow-md object-cover" />
+             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+                <img src="/public/images/re1.jpeg"   alt="Before and After 1" className="w-full h-auto rounded-xl shadow-md object-cover" />
+                <img src="/public/images/re2.jpeg" alt="Before and After 2" className="w-full h-auto rounded-xl shadow-md object-cover" />
+                <img src="/public/images/re3.jpeg" alt="Before and After 3" className="w-full h-auto rounded-xl shadow-md object-cover" />
+                <img src="/public/images/re4.jpeg" alt="Before and After 4" className="w-full h-auto rounded-xl shadow-md object-cover" />
               </div>
             </div>  
           </section>
