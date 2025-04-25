@@ -1,5 +1,5 @@
 import { useState } from "react";
-import CustomCarousel from "../ui/CustomCarousel";
+import CustomCarousel from "../UI/CustomCarousel";
 
 const TestimonialsSection = () => {
   const testimonials = [
