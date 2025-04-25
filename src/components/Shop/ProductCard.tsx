@@ -52,7 +52,7 @@ const ProductCard = ({
         {/* Push button to bottom */}
         <div className="mt-auto">
           <CustomButton
-            href="https://wa.me/919871762008"
+            href="https://wa.me/919211217600"
             external
             variant="primary"
             size="sm"
