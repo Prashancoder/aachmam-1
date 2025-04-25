@@ -177,7 +177,7 @@
                 Transformations with Aachman Ayurveda
               </h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
-                <img src="/public/images/re1.jpeg"   alt="Before and After 1" className="w-full h-auto rounded-xl shadow-md object-cover" />
+                <img src="https://www.google.com/imgres?q=image%20link&imgurl=https%3A%2F%2Fcdn.wikimg.net%2Fen%2Fzeldawiki%2Fimages%2Fthumb%2Ff%2Ffc%2FEoW_Link_Render.png%2F800px-EoW_Link_Render.png&imgrefurl=https%3A%2F%2Fzeldawiki.wiki%2Fwiki%2FLink&docid=3mkO2pjvjHXFKM&tbnid=WJGP9bJgHD54OM&vet=12ahUKEwiK7p3c-_KMAxVLyzgGHYOpN8sQM3oECGUQAA..i&w=800&h=820&hcb=2&ved=2ahUKEwiK7p3c-_KMAxVLyzgGHYOpN8sQM3oECGUQAA"   alt="Before and After 1" className="w-full h-auto rounded-xl shadow-md object-cover" />
                 <img src="/public/images/re2.jpeg" alt="Before and After 2" className="w-full h-auto rounded-xl shadow-md object-cover" />
                 <img src="/public/images/re3.jpeg" alt="Before and After 3" className="w-full h-auto rounded-xl shadow-md object-cover" />
                 <img src="/public/images/re4.jpeg" alt="Before and After 4" className="w-full h-auto rounded-xl shadow-md object-cover" />
