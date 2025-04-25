@@ -1,5 +1,4 @@
-import { ArrowRight } from "lucide-react";
-import CustomCarousel from "../ui/CustomCarousel";
+import CustomCarousel from "../UI/CustomCarousel";
 
 const HeroSection = () => {
   const desktopSlides = [
