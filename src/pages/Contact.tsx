@@ -55,7 +55,7 @@ const Contact = () => {
                       Phone Number
                     </h3>
                     <p className="text-gray-700">
-                      +91 9871762008
+                      +91 9211627274
                     </p>
                   </div>
                 </div>
@@ -80,7 +80,7 @@ const Contact = () => {
                   Connect with Us
                 </h3>
                 <a 
-                  href="https://wa.me/919211217600" 
+                  href="https://wa.me/919211627274" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center px-6 py-3 bg-green-500 text-white rounded-md hover:bg-green-600 transition-colors duration-300"
