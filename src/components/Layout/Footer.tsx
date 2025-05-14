@@ -42,14 +42,14 @@ const Footer = () => {
               </p>
               <p className="flex items-center">
                 <PhoneIcon className="w-5 h-5 mr-2 flex-shrink-0" />
-                <span>+91 9871762008</span>
+                <span>+91 9211627274</span>
               </p>
               <p className="flex items-center">
                 <MailIcon className="w-5 h-5 mr-2 flex-shrink-0" />
                 <span>aachmanayurveda@gmail.com</span>
               </p>
               <a 
-                href="https://wa.me/919871762008" 
+                href="https://wa.me/919211627274" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center text-white hover:text-green-300 transition duration-300"
