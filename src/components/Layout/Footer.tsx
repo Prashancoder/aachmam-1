@@ -42,7 +42,7 @@ const Footer = () => {
               </p>
               <p className="flex items-center">
                 <PhoneIcon className="w-5 h-5 mr-2 flex-shrink-0" />
-                <span>+91 9211627274</span>
+                <span>+91 9211217600</span>
               </p>
               <p className="flex items-center">
                 <MailIcon className="w-5 h-5 mr-2 flex-shrink-0" />
