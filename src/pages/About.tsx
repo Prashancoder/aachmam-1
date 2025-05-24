@@ -2,6 +2,9 @@
   import { ArrowRight } from "lucide-react";
   import CustomButton from "../components/UI/CustomButton";
   import bgimage from "/public/images/hg.jpg";
+  import ImageCarousel from "../components/ImageCarousel";
+
+  
 
   const About = () => {
     return (
@@ -176,12 +179,8 @@
               <h2 className="font-serif text-3xl md:text-4xl font-bold text-ayurveda-dark mb-12 text-center">
                 Transformations with Aachman Ayurveda
               </h2>
-             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
-                <img src="/images/re1.jpeg"   alt="Before and After 1" className="w-full h-auto rounded-xl shadow-md object-cover" />
-                <img src="/images/re2.jpeg" alt="Before and After 2" className="w-full h-auto rounded-xl shadow-md object-cover" />
-                <img src="/images/re3.jpeg" alt="Before and After 3" className="w-full h-auto rounded-xl shadow-md object-cover" />
-                <img src="/images/re4.jpeg" alt="Before and After 4" className="w-full h-auto rounded-xl shadow-md object-cover" />
-              </div>
+                     <ImageCarousel />
+
             </div>  
           </section>
 
